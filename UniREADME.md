@@ -34,9 +34,7 @@ the project's structure.
 |--------------|---------|----------------------------------------------------------------------------------------------------------------------------------|
 | gson         | 2.10    | [link](https://repo.mavenlibs.com/maven/com/google/code/gson/gson/2.10/gson-2.10.jar?utm_source=mavenlibs.com)                   |
 | jgrahpt-core | 1.4.0   | [link](https://repo1.maven.org/maven2/org/jgrapht/jgrapht-core/1.4.0/jgrapht-core-1.4.0.jar)                                     |
-| json-simple  | 1.1     | [link](https://repo.mavenlibs.com/maven/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar?utm_source=mavenlibs.com) |
 | jts-core     | 1.19.0  | [link](https://repo.mavenlibs.com/maven/org/locationtech/jts/jts-core/1.19.0/jts-core-1.19.0.jar?utm_source=mavenlibs.com)       |
-| jheaps       | 0.13.0  | [link](https://repo.mavenlibs.com/maven/org/jheaps/jheaps/0.13/jheaps-0.13.jar?utm_source=mavenlibs.com)                         |
 
 You can import these libraries to IntelliJ via 
 `File -> Project Structure -> Project Settings -> Libraries`,
