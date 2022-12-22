@@ -1,0 +1,9 @@
+Spy meetings: 5942
+Spy meetings with Counter Spy: 18335
+Spies corrupted by other corrupted spies: 5
+Spies corrupted by Counter Spies: 7
+Rescued Spies: 17
+Corrupted Spies: 12
+Number of Information Exchanges: 10
+Number of Disrupted Exchanges: 1096
+Number of Interrupted Exchanges: 28
